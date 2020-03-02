@@ -9,4 +9,4 @@
 | Microsoft Azure portal | https://portal.azure.com/ | No | {USERNAME}{ENTER}{DELAY 2500}{PASSWORD}{ENTER}{DELAY 5000}{TOTP}{ENTER}{DELAY 2500}{ENTER} | | 2019/04/19 |
 | Microsoft Office 365 portal | https://portal.office365.com | Yes | {USERNAME}{ENTER}{DELAY 2500}{PASSWORD}{ENTER}{DELAY 5000}{TOTP}{ENTER}{DELAY 2500}{ENTER} | | 2019/04/19 |
 | Microsoft Office 365 portal | https://portal.office365.com | No | {USERNAME}{ENTER}{DELAY 2500}{PASSWORD}{ENTER} | | 2019/04/19 |
-| Neflix | https://www.netflix.com/fr/login | No | {TAB}{TAB}{USERNAME}{TAB}{PASSWORD}{ENTER} | | 2019/04/19 |
+| Netflix | https://www.netflix.com/fr/login | No | {TAB}{TAB}{USERNAME}{TAB}{PASSWORD}{ENTER} | | 2019/04/19 |
